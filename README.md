@@ -49,7 +49,3 @@ EnRoute is a transit navigation system designed to help users find the shortest,
 - Multi-city transit networks.
 - Features like live bus tracking and personalized travel suggestions.
 
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
